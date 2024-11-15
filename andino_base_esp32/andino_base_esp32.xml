@@ -1,0 +1,11 @@
+<library path="diffdrive_andino_esp32">
+
+    <class name="andino_base_esp32/DiffDriveAndinoEsp32"
+           type="andino_base_esp32::DiffDriveAndinoEsp32"
+           base_class_type="hardware_interface::SystemInterface">
+        <description>
+            Hardware interface implementation for the andino robot using esp32.
+        </description>
+    </class>
+
+</library>
